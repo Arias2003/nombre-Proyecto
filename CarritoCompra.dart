@@ -51,4 +51,6 @@ void main(){
   var iphone = ProductoDescuento('APPLE', 2000, 0.05);
   iphone.mostrarInformacion();
   iphone.aplicarDescuento();
+  var samsung = Producto('Samsung',290123);
+  samsung.mostrarInformacion();
 }
