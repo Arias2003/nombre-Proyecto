@@ -53,4 +53,6 @@ void main(){
   iphone.aplicarDescuento();
   var samsung = Producto('Samsung',290123);
   samsung.mostrarInformacion();
+  var xiaomi = Producto('Xiaomi', 1000);
+  xiaomi,.mostrarInformación();
 }
