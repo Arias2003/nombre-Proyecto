@@ -54,5 +54,7 @@ void main(){
   var samsung = Producto('Samsung',290123);
   samsung.mostrarInformacion();
   var xiaomi = Producto('Xiaomi', 1000);
-  xiaomi,.mostrarInformación();
+  xiaomi,.mostrarInformacion();
+  var lg = Producto('Lg', 1200);
+  lg.mostrarInformacion();
 }
